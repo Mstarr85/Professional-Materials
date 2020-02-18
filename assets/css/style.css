@@ -1,0 +1,411 @@
+
+
+
+
+
+
+h1 {
+    background-color: #41637e;
+    color: whitesmoke;
+    border-color: #cccccc;
+  
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 30px;
+    height: 80px;
+    border-radius: 50px, 50px, 50px, 50px;
+}
+
+h2 {
+    color: #41637e;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    /* margin-left: 300px; */
+}
+
+p {
+    color: #777777;
+    line-height: 1.4;
+    margin: inherit;
+}
+
+footer {
+    /* background-color: #666666; */
+    background-color:#41637e;
+    /* border-top: 8px solid #4aaaa5; */
+    border-top: 4px solid #31adb3;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    height: 60px;
+    padding-top: 10x;
+}
+
+#Copyright {
+    position: absolute;
+  
+    bottom: 16px;
+}
+
+body {
+    border-color: #dddddd;
+    background-image: url("../images/criss-cross.png");
+    background-repeat: round;
+    margin: -5px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    background-color: #41637e;
+    border-bottom: 4px solid #31adb3;
+}
+
+li h1 {
+    float: left;
+}
+  
+li a {
+    display: block;
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px 13px;
+    text-decoration: none;
+}
+
+#border {
+    border-style: solid;
+    border-bottom-width: 1px;
+    margin-bottom: 20px;
+    color: #cccccc;
+}
+
+ #card {
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 10%;
+    margin:  38px 0px 0px 0px;
+    background-color: white;
+    /* float: center; */
+    width: 800px;
+    display: inline-block;
+    /* margin-top: 100px; */
+}
+
+#card2 {
+    border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 102px;
+    margin: 40px 0px 0px 244px;
+    background-color: white;
+
+    border-radius: 5%;
+    width: 1000;
+    top: -0.906px;
+    right: 50px;
+    bottom: 210px;
+    left: -45px;
+    position: absolute;
+    /* float: center; */
+
+
+
+    width: 800px;
+}
+
+#card3 {
+    /* border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 102px;
+    margin: 38px 0px 0px 325px;
+    background-color: white;
+    float: center;
+    width: 800px;
+ */
+
+    border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 102px;
+    margin: 40px 0px 0px 402px;
+    background-color: white;
+
+    border-radius: 5%;
+    width: 1000;
+    top: 90px;
+    right: 50px;
+    bottom: 136px;
+    left: -45px;
+    position: absolute;
+    /* float: center; */
+
+
+
+    width: 800px;
+}
+
+#bodyCard {
+    margin: 3%;
+}
+  
+.profile {
+    width: 10%;
+    float: left;
+    margin-right: 15px; }
+
+#box {
+    /* position: absolute; */
+    /* margin-left: 200px; */
+    margin-right: 100px;
+    text-align: center;
+
+    position: relative;
+    /* border: 3px solid; */
+    height: 800px;
+    width: 1200px;
+    left: 160px;
+    right: 0px;
+}
+
+#name {
+    margin-top: 0px;
+    margin-left: 220px;
+    margin-bottom: 0px;
+}
+
+#nameText {
+    padding: 25px 10px 15px 10px;
+}
+
+ header {
+    width: 100%;
+    margin: -8px;
+    margin: auto;
+}
+
+#Name {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+        
+}
+
+#John {
+    /* border: #cccccc;
+    border-style: Solid;
+    /* border-width: 1px; */
+    color: black; 
+}
+#Email {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+}
+
+#Example {
+    /* border: #cccccc;
+    border-style: Solid;
+    border-width: 1px; */
+    color: black;
+}
+
+ #Message {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+}
+
+#Empty {
+    /* border: #cccccc;
+    border-style: Solid;
+    height: 18px;
+    border-width: 1px; */
+    color: black;
+ }
+
+ #resumeLink {
+
+    /* border: #cccccc;
+    border-style: Solid;
+    height: 18px;
+    border-width: 1px; */
+    color: black;
+}
+
+#Linked {
+
+    /* border: #cccccc;
+    border-style: Solid;
+    height: 18px;
+    border-width: 1px; */
+    color: black;
+}
+
+#button {
+        
+    background-color: #4aaaa5; 
+    color: white;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+    height: 30px;
+    width: 80px;
+
+}
+
+.WD{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+.WDR {
+    color:  #41637e;
+}
+
+.PF {
+        
+    height: 100px;
+    width: 100px;
+    float: bottom;
+    padding: 5px;
+    margin-top: -5px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.FH {
+    height: 100px;
+    width: 100px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+.FHR {
+    color:  #41637e;
+}
+
+.br {
+    height: 110px;
+    width: 100px;
+    
+}
+
+.BR {
+    color:  #41637e;
+}
+.Quiz {
+    height: 100px;
+    width: 100px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+    position: absolute;
+    left: 400px;
+    top: 222px;
+
+}
+#quizLink {
+    color: #31adb3;
+    left: 504px;
+    top: 308px;
+    position: absolute;
+    pointer-events: all;
+    z-index: 1;
+
+}
+.QR {
+    color:  #41637e;
+    left: 540px;
+    top: 308px;
+    position: absolute;
+    pointer-events: all;
+    z-index: 1;
+}
+
+.banner {
+    position:relative;
+    width: 90%;
+}
+
+.Links {
+    color: #31adb3;
+}
+
+#Port{
+
+    color: #41637e;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-left: 300px;
+}
+
+.PR {
+
+    color:  #41637e;
+}
+
+.WC {
+    height: 100px;
+    width: 100px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+    position: absolute;
+    left: 401px;
+    top: 337px;
+
+}
+#whatsCooking{
+    color: #31adb3;
+    left: 505px;
+    top: 420px;
+    position: absolute;
+    pointer-events: all;
+    z-index: 1;
+}
+.WCR {
+    color: #41637e;
+    left: 624px;
+    top: 420px;
+    position: absolute;
+    pointer-events: all;
+    z-index: 1;
+}
+
+    /* Media Queries: Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Media Queries: Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+
+
+    
+     
+     
+
+
+
+
+
+
+
