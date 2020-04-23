@@ -4,11 +4,11 @@
 
 <img width="1440" alt="Screen Shot 2020-04-14 at 10 22 40 AM" src="https://user-images.githubusercontent.com/53281244/79266456-997b1b00-7e65-11ea-9a92-e5c26015153b.png">
 
-# Updated-Portfolio
+# Professional-Materials
 
 ## Description
    
-   * This is the most recent version of my Portfolio that will give the user a snapshot of my work as a Software Developer
+   This is the most recent version of my Portfolio that will give the user a snapshot of my work as a Software Developer
 
 ## Installation Instructions
 
@@ -32,11 +32,17 @@
 
 ## Github Repo Link 
 
-*The Portfolio was built using VScode, Html and Css
-
+   https://github.com/Mstarr85/Professional-Materials
+   
 ## Github Deployed Link
 
     https://mstarr85.github.io/Professional-Materials/
+    
+## Technologies Used
+
+   * Bootstrap
+   * CSS
+   * HTML
 
 
 
