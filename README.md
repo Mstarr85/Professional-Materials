@@ -36,7 +36,7 @@
    
 ## Github Deployed Link
 
-    https://mstarr85.github.io/Professional-Materials/
+   https://mstarr85.github.io/Professional-Materials/
     
 ## Technologies Used
 
