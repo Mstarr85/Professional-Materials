@@ -6,26 +6,37 @@
 
 # Updated-Portfolio
 
-  This is my Updated Portfolio that will give the user a snapshot of my work as a Software Developer
+## Description
+   
+   * This is the most recent version of my Portfolio that will give the user a snapshot of my work as a Software Developer
 
-Getting Started:
+## Installation Instructions
 
-*Once the Updated-Portfolio page loads the user will see the about page and be able to toggle the menu in the top right of the page by clicking on portfolio or contact which will take them to each according page.     
+   * Clone the Repo to your local machine
+   
+   * Open the HTML file with default browser
+   
+                    or
+                    
+   * Click on the Github Deployed Link below
+   
+## How It Works
 
-*The Portfolio will have the following information:
--Bio 
--Contact Information
--Resume
--Links to Projects 
--Link to Github Profile
--Link to Linkedin
+   * Once the Updated-Portfolio page loads the user will see the About page and be able to toggle the Menu in the top right of      the page by clicking on the Portfolio or Contact Tab which will take them to each according page.     
 
+   * The About page will have a short Bio
+    
+   * The Portfolio page will have screen shots of projects and Deployed Links to each one
+   
+   * The Contact page will have contact information and links to Github Profile, Resume and LinkedIn 
 
-Built With:
+## Github Repo Link 
 
 *The Portfolio was built using VScode, Html and Css
 
-Link to Portfolio: https://mstarr85.github.io/Professional-Materials/
+## Github Deployed Link
+
+    https://mstarr85.github.io/Professional-Materials/
 
 
 
