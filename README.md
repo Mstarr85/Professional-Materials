@@ -1,31 +1,57 @@
-Updated-Portfolio
+<img width="1440" alt="Screen Shot 2020-04-14 at 10 22 11 AM" src="https://user-images.githubusercontent.com/53281244/79258421-181d8b80-7e59-11ea-89ca-d02cf9f68499.png">
 
+<img width="1440" alt="Screen Shot 2020-04-14 at 10 22 18 AM" src="https://user-images.githubusercontent.com/53281244/79258816-b873b000-7e59-11ea-8703-9ea7745790aa.png">
 
-This is my updated portfolio that will give the user a snapshot of my work as a Software Developer
+<img width="1440" alt="Screen Shot 2020-04-14 at 10 22 40 AM" src="https://user-images.githubusercontent.com/53281244/79266456-997b1b00-7e65-11ea-9a92-e5c26015153b.png">
 
-Getting Started:
+# Professional-Materials
 
-*Once the Updated-Portfolio page loads the user will see the about page and be able to toggle the menu in the top right of the page by clicking on portfolio or contact which will take them to each according page.     
+## Description
+   
+   This is the most recent version of my Portfolio that will give the user a snapshot of my work as a Software Developer
 
-*The Portfolio will have the following information:
--Bio 
--Contact Information
--Resume
--Links to Projects 
--Link to Github Profile
--Link to Linkedin
+## Installation Instructions
 
+   * Clone the Repo to your local machine
+   
+   * Open the HTML file with default browser
+   
+                    or
+                    
+   * Click on the Github Deployed Link below
+   
+## How It Works
 
-Built With:
+   * Once the Updated-Portfolio page loads the user will see the About page and be able to toggle the Menu in the top right of      the page by clicking on the Portfolio or Contact Tab which will take them to each according page.     
 
-*The Portfolio was built using VScode, Html and Css
+   * The About page will have a short Bio
+    
+   * The Portfolio page will have screen shots of projects and Deployed Links to each one
+   
+   * The Contact page will have contact information and links to Github Profile, Resume and LinkedIn 
 
-Link to Portfolio: https://mstarr85.github.io/Professional-Materials/
+## Github Repo Link 
 
+   https://github.com/Mstarr85/Professional-Materials
+   
+## Github Deployed Link
 
+   https://mstarr85.github.io/Professional-Materials/
+    
+## Technologies Used
 
+   * Bootstrap
+   * CSS
+   * HTML
 
+## Author
 
-Author:
+   Matthew Starr
 
-*Created by Matthew Starr
+## License
+
+This project is licensed under the MIT License Copyright (c) 2010-2020 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
