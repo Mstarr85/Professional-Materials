@@ -20,9 +20,9 @@ Built With:
 
 *The Portfolio was built using VScode, Html and Css
 
-Link to Portfolio:
+Link to Portfolio: https://mstarr85.github.io/Professional-Materials/
 
-https://mstarr85.github.io/Updated-Portfolio/
+
 
 
 

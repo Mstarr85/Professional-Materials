@@ -188,7 +188,7 @@ li a {
     padding: 25px 10px 15px 10px;
 }
 
- header {
+header {
     width: 100%;
     margin: -8px;
     margin: auto;
@@ -262,7 +262,8 @@ li a {
 }
 
 .WD{
-    height: 100px;
+    margin-left: 120px;
+    height: 110px;
     width: 100px;
     float: left;
     border: #cccccc;
@@ -271,6 +272,15 @@ li a {
 }
 .WDR {
     color:  #41637e;
+    position: absolute;
+    top: 227px;
+    left: 144px;
+}
+.LinksWD {
+    color: #31adb3;
+    position: absolute;
+    top: 208px;
+    left: 144px;
 }
 
 .PF {
@@ -299,11 +309,21 @@ li a {
 .br {
     height: 110px;
     width: 100px;
+    margin-left: 272px;
     
 }
 
 .BR {
     color:  #41637e;
+    position: absolute;
+    top: 225px;
+    left: 517px;
+}
+.LinksBR {
+    color:  #31adb3;
+    position: absolute;
+    top: 207px;
+    left: 517px;
 }
 .Quiz {
     height: 100px;
@@ -334,15 +354,17 @@ li a {
     z-index: 1;
 }
 
-.banner {
+/* .banner {
     position:relative;
     width: 90%;
-}
-
+} */
 .Links {
-    color: #31adb3;
-}
-
+    color: #31adb3; 
+    /* color: #31adb3;
+    position: absolute;
+    top: 206px;
+    left: 517px; */
+ } 
 #Port{
 
     color: #41637e;
@@ -383,6 +405,54 @@ li a {
     position: absolute;
     pointer-events: all;
     z-index: 1;
+}
+.NT {
+    height: 100px;
+    width: 100px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+    position: absolute;
+    left: 517px;
+    top: 337px;
+}
+.Links1 {
+    color: #31adb3;
+    position: absolute;
+    left: 517px;
+    top: 441px;
+}
+
+.NTR {
+    color:  #41637e;
+    position: absolute;
+    left: 517px;
+    top: 462px;
+
+}
+.PM {
+    margin-top: 114px;
+    margin-left: 120px;
+    height: 100px;
+    width: 100px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+.PMR {
+    color:  #41637e;
+    position: absolute;
+    top: 463px;
+    left: 144px;
+
+}
+.LinkPM {
+    color: #31adb3;
+    position: absolute;
+    top: 444px;
+    left: 144px;
+
+
 }
 
     /* Media Queries: Tablet Landscape */
